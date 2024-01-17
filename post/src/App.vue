@@ -1,6 +1,8 @@
 <template>
-  <img alt="Vue logo" src="./assets/in-love.png">
-  <HelloWorld msg="Hai Cantik, Pencet Tombol Dibawah Yaaa"/>
+  <!-- <img alt="Vue logo" src="./assets/in-love.png"> -->
+  <img alt="Vue logo" src="./assets/logo.png">
+  <!-- <HelloWorld msg="Hai Cantik, Pencet Tombol Dibawah Yaaa"/> -->
+  <HelloWorld msg="Vue test"/>
   <!-- <h1>AKU GANTENK</h1> -->
   <!-- <PAGES /> -->
   <!-- <pages_One /> -->

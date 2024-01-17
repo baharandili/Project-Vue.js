@@ -46,7 +46,7 @@ export default {
     // },
     methods:{
         getData(){
-            alert("Pante Kau, AKAWKAWKAWKAWKAWKAWKAWAK ")
+            alert("Pante Kau, Hehehehe ")
         }
 
     },
