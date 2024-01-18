@@ -2,7 +2,7 @@
     <!-- <h1>Test newuser</h1> -->
     <div class="comp">
         <!-- <h2>{{ data[0].name }}</h2> -->
-        <h2>{{ data }}</h2>
+        <!-- <h2>{{ data }}</h2> -->
     </div> 
 </template>
 <script>
@@ -10,7 +10,7 @@ export default{
     name: "new_user",
     props: {
         data: Object,
-    },
+    }, 
 }
 </script>
 <style>
