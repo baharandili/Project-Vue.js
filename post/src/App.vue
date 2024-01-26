@@ -8,27 +8,23 @@
   <!-- <pages_One /> -->
   <!-- <input_box /> -->
   <!-- <ifElse /> -->
-  <for_loops />
+  <!-- <for_loops /> -->
+  <Kampus/>
 </template>
-
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import Kampus from './components/kampus.vue';
 // import PAGES from './components/NewTest.vue'
 // import pages_One from './components/pages.vue'
 // import input_box from './components/inputbox.vue'
 // import ifElse from './components/ifelse.vue'
-import for_loops from './components/loops.vue'
+// import for_loops from './components/loops.vue'
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    // PAGES,
-    // pages_One,
-    // input_box,
-    // ifElse,
-    for_loops,
-  
-  }
+    Kampus
+}
 }
 </script>
 
