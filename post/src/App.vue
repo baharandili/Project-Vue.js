@@ -9,11 +9,13 @@
   <!-- <input_box /> -->
   <!-- <ifElse /> -->
   <!-- <for_loops /> -->
-  <Kampus/>
+  <!-- <Kampus/> -->
+  <Form/>
 </template>
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import Kampus from './components/kampus.vue';
+import Form from './components/form.vue';
+// import Kampus from './components/kampus.vue';
 // import PAGES from './components/NewTest.vue'
 // import pages_One from './components/pages.vue'
 // import input_box from './components/inputbox.vue'
@@ -23,7 +25,7 @@ export default {
   name: 'App',
   components: {
     HelloWorld,
-    Kampus
+    Form
 }
 }
 </script>
