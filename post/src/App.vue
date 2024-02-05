@@ -10,11 +10,12 @@
   <!-- <ifElse /> -->
   <!-- <for_loops /> -->
   <!-- <Kampus/> -->
-  <Form/>
+  <Form />
 </template>
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 import Form from './components/form.vue';
+
 // import Kampus from './components/kampus.vue';
 // import PAGES from './components/NewTest.vue'
 // import pages_One from './components/pages.vue'
